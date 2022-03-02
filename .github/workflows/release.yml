@@ -31,4 +31,7 @@ jobs:
           prerelease: true
           title: "Production Build"
           files: |
-            *
+            structures/
+            RF Poker.exe
+            RF Poker
+            config.ini
