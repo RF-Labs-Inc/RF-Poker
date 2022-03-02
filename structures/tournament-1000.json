@@ -1,0 +1,80 @@
+{
+    "mode": "mtt",
+    "variation": "nlh",
+    "blinds": [
+        {
+            "small_blind": 20,
+            "big_blind": 40,
+            "antes": 0,
+            "time": 80
+        },
+        {
+            "small_blind": 40,
+            "big_blind": 80,
+            "antes": 0,
+            "time": 20
+        },
+        {
+            "small_blind": 90,
+            "big_blind": 180,
+            "antes": 0,
+            "time": 20
+        },
+        {
+            "small_blind": 200,
+            "big_blind": 400,
+            "antes": 0,
+            "time": 20
+        },
+        {
+            "small_blind": 400,
+            "big_blind": 800,
+            "antes": 0,
+            "time": 20
+        },
+        {
+            "small_blind": 800,
+            "big_blind": 1600,
+            "antes": 0,
+            "time": 20
+        },
+        {
+            "small_blind": 1500,
+            "big_blind": 3000,
+            "antes": 0,
+            "time": 20
+        },
+        {
+            "small_blind": 2500,
+            "big_blind": 5000,
+            "antes": 0,
+            "time": 20
+        }
+    ],
+    "breaks": [
+        {
+            "after": 2,
+            "time": 15
+        },
+        {
+            "after": 5,
+            "time": 15
+        }
+    ],
+    "denominations": {
+        "blue": 5,
+        "purple": 10,
+        "green": 50,
+        "red": 100,
+        "rf-pink": 1,
+        "rf-yellow": 2,
+        "rf-red": 5,
+        "rf-orange": 25,
+        "rf-brown": 100,
+        "rf-grey-1": 1,
+        "rf-red-5": 5,
+        "rf-green-25": 25,
+        "rf-black-100": 100,
+        "rf-purple-500": 500
+    }
+}

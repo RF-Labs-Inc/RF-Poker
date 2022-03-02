@@ -1,0 +1,140 @@
+{
+    "blinds": [
+        {
+            "antes": 20000,
+            "big_blind": 20000,
+            "small_blind": 10000,
+            "smallest_denomination": 5000,
+            "time": -1
+        },
+        {
+            "antes": 30000,
+            "big_blind": 30000,
+            "small_blind": 15000,
+            "smallest_denomination": 5000,
+            "time": -1
+        },
+        {
+            "antes": 40000,
+            "big_blind": 40000,
+            "small_blind": 20000,
+            "smallest_denomination": 5000,
+            "time": -1
+        },
+        {
+            "antes": 60000,
+            "big_blind": 60000,
+            "small_blind": 30000,
+            "smallest_denomination": 5000,
+            "time": -1
+        },
+        {
+            "antes": 80000,
+            "big_blind": 80000,
+            "small_blind": 40000,
+            "smallest_denomination": 5000,
+            "time": -1
+        },
+        {
+            "antes": 100000,
+            "big_blind": 100000,
+            "small_blind": 50000,
+            "smallest_denomination": 25000,
+            "time": -1
+        },
+        {
+            "antes": 150000,
+            "big_blind": 150000,
+            "small_blind": 75000,
+            "smallest_denomination": 5000,
+            "time": -1
+        },
+        {
+            "antes": 200000,
+            "big_blind": 200000,
+            "small_blind": 100000,
+            "smallest_denomination": 5000,
+            "time": -1
+        },
+        {
+            "antes": 300000,
+            "big_blind": 300000,
+            "small_blind": 150000,
+            "smallest_denomination": 5000,
+            "time": -1
+        },
+        {
+            "antes": 400000,
+            "big_blind": 400000,
+            "small_blind": 200000,
+            "smallest_denomination": 5000,
+            "time": -1
+        },
+        {
+            "antes": 600000,
+            "big_blind": 600000,
+            "small_blind": 300000,
+            "smallest_denomination": 5000,
+            "time": -1
+        },
+        {
+            "antes": 1000000,
+            "big_blind": 1000000,
+            "small_blind": 500000,
+            "smallest_denomination": 5000,
+            "time": -1
+        }
+    ],
+    "breaks": [],
+    "denominations": {
+        "rf-purple-500": 500,
+        "rf-black-100": 100,
+        "rf-brown": 100,
+        "green": 25,
+        "rf-green-25": 25,
+        "rf-orange": 25,
+        "red": 5,
+        "rf-red": 5,
+        "rf-red-5": 5,
+        "purple": 2,
+        "rf-yellow": 2,
+        "blue": 1,
+        "rf-grey-1": 1,
+        "rf-pink": 1
+    },
+    "mode": "final-table",
+    "payouts": [
+        5604,
+        3301,
+        1900,
+        1500,
+        1200,
+        1000,
+        800,
+        700,
+        600
+    ],
+    "settings": {
+        "potIncludesBets": true,
+        "showWinner": false
+    },
+    "title": "$4k Guaranteed to 1st - Final Table",
+    "variation": "nlh",
+    "video": {
+        "all": 5,
+        "atemIp": "192.168.86.97",
+        "communityDelay": "4",
+        "overhead": 6,
+        "players": [
+            1,
+            1,
+            2,
+            2,
+            7,
+            7,
+            7,
+            4,
+            4
+        ]
+    }
+}

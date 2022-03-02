@@ -1,0 +1,221 @@
+{
+    "mode": "mtt",
+    "variation": "nlh",
+    "blinds": [
+        {
+            "small_blind": 1,
+            "big_blind": 2,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 2,
+            "big_blind": 4,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 3,
+            "big_blind": 6,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 4,
+            "big_blind": 8,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 5,
+            "big_blind": 10,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 6,
+            "big_blind": 12,
+            "antes": 0,
+            "time": 10
+        }
+        ,
+        {
+            "small_blind": 7,
+            "big_blind": 14,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 8,
+            "big_blind": 16,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 9,
+            "big_blind": 18,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 10,
+            "big_blind": 20,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 11,
+            "big_blind": 22,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 12,
+            "big_blind": 24,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 13,
+            "big_blind": 26,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 14,
+            "big_blind": 28,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 19,
+            "big_blind": 38,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 24,
+            "big_blind": 48,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 29,
+            "big_blind": 58,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 30,
+            "big_blind": 60,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 35,
+            "big_blind": 70,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 40,
+            "big_blind": 80,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 50,
+            "big_blind": 100,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 55,
+            "big_blind": 110,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 65,
+            "big_blind": 130,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 75,
+            "big_blind": 150,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 85,
+            "big_blind": 170,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 110,
+            "big_blind": 220,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 135,
+            "big_blind": 270,
+            "antes": 0,
+            "time": 10
+        },
+        {
+            "small_blind": 160,
+            "big_blind": 320,
+            "antes": 0,
+            "time": 10
+        }
+    ],
+    "breaks": [
+        {
+            "after": 4,
+            "time": 5
+        },
+        {
+            "after": 8,
+            "time": 5
+        },
+        {
+            "after": 12,
+            "time": 5
+        },
+        {
+            "after": 16,
+            "time": 5
+        },
+        {
+            "after": 20,
+            "time": 5
+        },
+        {
+            "after": 24,
+            "time": 5
+        },
+        {
+            "after": 28,
+            "time": 5
+        }
+    ],
+    "denominations": {
+        "blue": 1,
+        "purple": 2,
+        "red": 5,
+        "green": 25,
+        "rf-pink": 1,
+        "rf-yellow": 2,
+        "rf-red": 5,
+        "rf-orange": 25,
+        "rf-brown": 100,
+        "rf-grey-1": 1,
+        "rf-red-5": 5,
+        "rf-green-25": 25,
+        "rf-black-100": 100,
+        "rf-purple-500": 500
+    }
+}

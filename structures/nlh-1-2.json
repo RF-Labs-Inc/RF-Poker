@@ -1,0 +1,35 @@
+{
+    "mode": "cash",
+    "variation": "nlh",
+    "blinds": [
+        {
+            "small_blind": 1,
+            "big_blind": 2,
+            "antes": 0,
+            "time": -1
+        }
+    ],
+    "smallest_denomination": 1,
+    "straddle": {
+        "priority": ["btn", "co", "hj", "lj", "+2", "+1", "utg"],
+        "min": 4,
+        "max": 15
+    },
+    "breaks": [],
+    "denominations": {
+        "blue": 1,
+        "purple": 2,
+        "red": 5,
+        "green": 25,
+        "rf-pink": 1,
+        "rf-yellow": 2,
+        "rf-red": 5,
+        "rf-orange": 25,
+        "rf-brown": 100,
+        "rf-grey-1": 1,
+        "rf-red-5": 5,
+        "rf-green-25": 25,
+        "rf-black-100": 100,
+        "rf-purple-500": 500
+    }
+}
